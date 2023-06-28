@@ -1,0 +1,157 @@
+[    
+    {
+        "id": 1816511101,
+        "type": 1,
+        "zoneCode": "SB2D",
+        "zoneDescription": "Zona Tarragona Sur",
+        "name": "ROCA",
+        "companyId": "0010981",
+        "company": "Endesa Distr.Electrica",
+        "address": "C/ DE LA RIERA S/N",
+        "features": {
+            "transformers": [
+                {
+                    "id": 1408431401,
+                    "power": 100.0,
+                    "transformation": "220/132"
+                },
+                {
+                    "id": 1408591401,
+                    "power": 40.0,
+                    "transformation": "132/25"
+                },
+                {
+                    "id": 1408621401,
+                    "power": 40.0,
+                    "transformation": "132/25"
+                },
+                {
+                    "id": 1419881401,
+                    "power": 60.0,
+                    "transformation": "220/25"
+                },
+                {
+                    "id": 1408631401,
+                    "power": 40.0,
+                    "transformation": "132/25"
+                }
+            ]
+        }
+    },
+    {
+        "id": 1814581101,
+        "type": 1,
+        "zoneCode": "SB2D",
+        "zoneDescription": "Zona Tarragona Sur",
+        "name": "S.FOST",
+        "companyId": "0010981",
+        "company": "Endesa Distr.Electrica",
+        "features": {
+            "transformers": [
+                {
+                    "id": 1419841401,
+                    "power": 200.0,
+                    "transformation": "220/110"
+                },
+                {
+                    "id": 1431531401,
+                    "power": 60.0,
+                    "transformation": "220/25"
+                },
+                {
+                    "id": 1431541401,
+                    "power": 60.0,
+                    "transformation": "220/25"
+                },
+                {
+                    "id": 1415221401,
+                    "power": 200.0,
+                    "transformation": "220/110"
+                }
+            ]
+        }
+    },
+    {
+        "id": 1814691101,
+        "type": 1,
+        "zoneCode": "SB2D",
+        "zoneDescription": "Zona Tarragona Sur",
+        "name": "S.COLOMA",
+        "companyId": "0010981",
+        "company": "Endesa Distr.Electrica",
+        "address": "C/ FRANCESC MACIÀ Nº 251",
+        "features": {
+            "transformers": [
+                {
+                    "id": 1420091401,
+                    "power": 100.0,
+                    "transformation": "220/66"
+                },
+                {
+                    "id": 1420101401,
+                    "power": 60.0,
+                    "transformation": "220/25"
+                },
+                {
+                    "id": 1448551401,
+                    "power": 40.0,
+                    "transformation": "220/25"
+                },
+                {
+                    "id": 1431261401,
+                    "power": 100.0,
+                    "transformation": "220/132"
+                },
+                {
+                    "id": 1437751401,
+                    "power": 120.0,
+                    "transformation": "220/132"
+                },
+                {
+                    "id": 1431801401,
+                    "power": 20.0,
+                    "transformation": "25/25"
+                }
+            ]
+        }
+    },
+    {
+        "id": 1813291101,
+        "type": 1,
+        "zoneCode": "SB2D",
+        "zoneDescription": "Zona Tarragona Sur",
+        "name": "S.CELONI",
+        "companyId": "0010981",
+        "company": "Endesa Distr.Electrica",
+        "address": "CRTA. SANTA FE DEL MONTSENY, KM 2",
+        "features": {
+            "transformers": [
+                {
+                    "id": 1443411401,
+                    "power": 40.0,
+                    "transformation": "25/25"
+                },
+                {
+                    "id": 1442571401,
+                    "power": 150.0,
+                    "transformation": "220/110"
+                },
+                {
+                    "id": 1442581401,
+                    "power": 150.0,
+                    "transformation": "220/110"
+                },
+                {
+                    "id": 1443421401,
+                    "power": 40.0,
+                    "transformation": "25/25"
+                },
+                {
+                    "id": 1442611401,
+                    "power": 200.0,
+                    "transformation": "220/110"
+                }
+            ]
+        }
+    }
+]
